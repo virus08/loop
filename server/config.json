@@ -1,7 +1,9 @@
 {
   "restApiRoot": "/api",
   "host": "0.0.0.0",
-  "port": 3000,
+  "port": 80,
+  "url": "http://mysite-esapp.7e14.starter-us-west-2.openshiftapps.com",
+  "cookieSecret": "246bace2-38cb-4138-85d9-0ae8160b07c8",
   "remoting": {
     "context": false,
     "rest": {
